@@ -69,4 +69,4 @@ While we know these docs will help guide you to the right configuration, we unde
 
 If you have special requests for how-to-guides..
 * Email us at <a href="mailto:support@mydecisive.ai" target="_blank">support@mydecisive.ai</a>
-* File an issue under the <a href="https://github.com/DecisiveAI/mdai-helm-chart/issues/new" target="_blank">MDAI Helm Chart repo
+* File an issue under the <a href="https://github.com/DecisiveAI/mdai-hub/issues/new" target="_blank">MDAI Hub repo
